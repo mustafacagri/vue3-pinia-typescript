@@ -12,3 +12,4 @@ jobs:
         username: 'mustafacagri'
         reponame: 'vue3-pinia-typescript'
         token: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
+        useyarn: true
