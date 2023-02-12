@@ -1,6 +1,17 @@
-# vue3-typescript-boilerplate
+# Vue 3 + Typescript + Pinia Boilerplate
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite + typescript + pinia + fetch.
+
+This boilerplate project, which is at a starter/intermediate level, aims to help you quickly kick off a new project whenever you need to use Vue3, TypeScript, Fetch and Pinia.
+
+## 🌐 Demo
+
+https://mustafacagri.github.io/vue3-pinia-typescript
+
+## 📷 Screenshot
+
+![Screen Recording 2023-02-12 at 19 49 02](https://user-images.githubusercontent.com/7488394/218324846-b733bf90-0e74-46b6-a50d-aa03f6c3e706.gif)
+
 
 ## Recommended IDE Setup
 
@@ -24,29 +35,32 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm install
+yarn
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+yarn dev
 ```
 
 ### Type-Check, Compile and Minify for Production
 
 ```sh
-npm run build
+yarn build
 ```
 
 ### Run Unit Tests with [Vitest](https://vitest.dev/)
 
 ```sh
-npm run test:unit
+yarn test:unit
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
-npm run lint
+yarn lint
 ```
+
+
+
